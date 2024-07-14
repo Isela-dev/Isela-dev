@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: isela.lopez.garcia.ing@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/isela-l-garc%C3%ADa-tech-ia-data-machinelearning/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy playing video games like Halo, Overwatch, and Fortnite
 
