@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Azul Blanco Abstracto Tecnología LinkedIn Banner](https://github.com/user-attachments/assets/9e46b45c-3b9a-4000-99c6-a41e7c980c44)
 
-- 👋 Hola!!!, Soy @Isela-dev
+- 👋 Hola!!!, Soy Isela L. García (Isela-Dev)
 - 👀 Actualmente estoy aprendiendo:
  Me interesan el aprendizaje automático y la inteligencia artificial:
 - 🌱 Actualmente estoy aprendiendo:
