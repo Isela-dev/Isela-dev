@@ -4,7 +4,8 @@
 Isela-dev/Isela-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Azul Blanco Abstracto Tecnología LinkedIn Banner](https://github.com/user-attachments/assets/9e46b45c-3b9a-4000-99c6-a41e7c980c44)
+
+![Beige Modern Painting Art Etsy Banner](https://github.com/user-attachments/assets/4a586c21-0c8a-4cde-a6f7-0642a00d27fe)
 
 - 👋 Hello!!!, I'm Isela L. Garcia (Isela-Dev)
 - 👀 I am currently learning:
